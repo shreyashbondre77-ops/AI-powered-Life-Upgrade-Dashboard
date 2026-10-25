@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Daily OS",
+  "description": "Personal AI Life & Study Operating System for engineering students. Adaptive daily scheduling, 5-subject syllabus mastery, Python learning roadmap, and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
